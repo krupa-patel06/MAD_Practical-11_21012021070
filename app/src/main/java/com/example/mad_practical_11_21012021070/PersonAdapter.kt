@@ -1,4 +1,4 @@
-package com.example.mad_practical_11_21012011072
+package com.example.mad_practical_11_21012021070
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -10,6 +10,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import com.example.mad_practical_11_21012011072.R
 import java.io.Serializable
 class PersonAdapter(private val context: Context, private val array: ArrayList<Person>):
     RecyclerView.Adapter<PersonAdapter.PersonViewHolder>(){

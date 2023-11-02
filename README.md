@@ -1,4 +1,4 @@
-# MAD_Practical-11_21012011072
+# MAD_Practical-11_21012021070
 
 Aim:
 Consider Android Application created in Practical-10 and add Sqlite feature such that it is storing data of persons which is received in JSON Format. There should be two buttons: after pressing first button then data of persons loads from sqlite database. After pressing second button, it receives data from network database in JSON format and loads data in ListView or RecyclerView.
@@ -17,11 +17,11 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 
 -> Light Theme :- 
 
-![image](https://github.com/Divy484/MAD_Practical-11_21012011072/assets/98522523/0ff2bd53-6143-4ecd-902d-75e28a8834f2)
-![image](https://github.com/Divy484/MAD_Practical-11_21012011072/assets/98522523/06813d02-12ab-4137-9542-47adeacd7ab7)
+![image](https://github.com/Divy484/MAD_Practical-11_21012021070/assets/98522523/0ff2bd53-6143-4ecd-902d-75e28a8834f2)
+![image](https://github.com/Divy484/MAD_Practical-11_21012021070/assets/98522523/06813d02-12ab-4137-9542-47adeacd7ab7)
 
 
 -> Dark Theme :-
 
-![image](https://github.com/Divy484/MAD_Practical-11_21012011072/assets/98522523/6c59398a-1a55-4c8c-9739-2b8b0cdec862)
-![image](https://github.com/Divy484/MAD_Practical-11_21012011072/assets/98522523/6635856e-3460-42d6-b8d3-e1ab00c17776)
+![image](https://github.com/Divy484/MAD_Practical-11_21012021070/assets/98522523/6c59398a-1a55-4c8c-9739-2b8b0cdec862)
+![image](https://github.com/Divy484/MAD_Practical-11_21012021070/assets/98522523/6635856e-3460-42d6-b8d3-e1ab00c17776)
